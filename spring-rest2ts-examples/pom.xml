@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>spring-rest2ts-examples</artifactId>
-    <version>1.2.6</version>
+    <version>1.2.7-SNAPSHOT</version>
     <description>
         Typescript data model and services from rest generator for java spring. It supports generation for Angular and React
     </description>
